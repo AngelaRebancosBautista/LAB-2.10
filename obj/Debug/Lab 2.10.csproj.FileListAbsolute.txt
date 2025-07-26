@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\Lab 2.10\bin\Debug\Lab 2.10.exe.config
+C:\Users\alyssa\source\repos\Lab 2.10\bin\Debug\Lab 2.10.exe
+C:\Users\alyssa\source\repos\Lab 2.10\bin\Debug\Lab 2.10.pdb
+C:\Users\alyssa\source\repos\Lab 2.10\obj\Debug\Lab 2.10.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\Lab 2.10\obj\Debug\Lab 2.10.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\Lab 2.10\obj\Debug\Lab 2.10.exe
+C:\Users\alyssa\source\repos\Lab 2.10\obj\Debug\Lab 2.10.pdb
